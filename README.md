@@ -14,7 +14,7 @@ A simple Firefox extension that fixes the right-to-left (RTL) text alignment for
 ## Installation
 
 ### Method 1: Install via `.xpi` File
-1. Download the `rtl-fixer.xpi` file from the [Releases](https://github.com/username/repository-name/releases) section.
+1. Download the `rtl-fixer.xpi` file from the [Releases](https://github.com/mortezapourhoseini/deepseek_rtl_fixer/releases) section.
 2. Open Firefox and go to `about:addons`.
 3. Click on the gear icon (or hamburger menu) and select **Install Add-on From File**.
 4. Choose the `rtl-fixer.xpi` file and install it.
